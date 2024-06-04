@@ -36,7 +36,7 @@ I am a Fullstack Backend developer <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: Ability to start with the team.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue)](https://t.me/Disign)
 
 ---
 
