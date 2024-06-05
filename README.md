@@ -71,5 +71,6 @@ I am a Fullstack Backend developer <img src="https://media.giphy.com/media/WUlpl
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+Coming soon!
 
 <!-- BLOG-POST-LIST:END -->
